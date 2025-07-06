@@ -1,0 +1,57 @@
+# Development dependencies for DLABS
+# Install with: pip install -r requirements-dev.txt
+
+# Include base requirements
+-r requirements.txt
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-xdist>=3.3.0  # Parallel test execution
+pytest-mock>=3.11.0
+hypothesis>=6.82.0  # Property-based testing
+
+# Code Quality
+black>=23.7.0
+flake8>=6.0.0
+isort>=5.12.0
+mypy>=1.5.0
+bandit>=1.7.5
+flake8-docstrings>=1.7.0
+flake8-bugbear>=23.7.0
+
+# Pre-commit hooks
+pre-commit>=3.3.0
+nbstripout>=0.6.1
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
+myst-parser>=2.0.0
+sphinx-autodoc-typehints>=1.24.0
+
+# Jupyter development
+nbqa>=1.7.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Profiling and debugging
+line-profiler>=4.1.0
+memory-profiler>=0.61.0
+py-spy>=0.3.14
+snakeviz>=2.2.0
+
+# Development utilities
+python-dotenv>=1.0.0
+watchdog>=3.0.0  # File watching for auto-reload
+invoke>=2.2.0  # Task runner
+cookiecutter>=2.2.0  # Project templating
+
+# Database tools (for experiment tracking)
+sqlalchemy>=2.0.0
+alembic>=1.11.0
+
+# Additional ML development tools
+optuna>=3.3.0  # Hyperparameter optimization
+ray[tune]>=2.6.0  # Distributed hyperparameter tuning
+tensorboard>=2.13.0
