@@ -373,11 +373,11 @@ print(prof.key_averages().table(sort_by="cuda_time_total"))
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/dlabs.git
-cd dlabs
+git clone https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning
+cd Full_stack-Machine_and_deep-Learning
 
 # Add upstream remote
-git remote add upstream https://github.com/original/dlabs.git
+git remote add upstream https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning.git
 
 # Install in development mode
 pip install -e .
@@ -396,8 +396,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/Geoelycom/dlabs/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/Geoelycom/dlabs/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning/discussions)
 - **Email**: ekenimohelyanpheta@gmail.com
 
 ---

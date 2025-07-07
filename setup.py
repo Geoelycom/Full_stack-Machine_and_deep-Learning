@@ -19,12 +19,12 @@ def read_requirements():
 setup(
     name="dlabs",
     version="0.1.0",
-    author="DLABS Team",
-    author_email="your.email@example.com",
+    author="Ekenimoh Elyan",
+    author_email="ekenimohelyanpheta@gmail.com",
     description="A comprehensive deep learning codebase for Computer Vision, NLP, and Handwriting Recognition",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/dlabs",
+    url="https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
@@ -86,8 +86,8 @@ setup(
         "neural networks",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/dlabs/issues",
-        "Source": "https://github.com/yourusername/dlabs",
-        "Documentation": "https://github.com/yourusername/dlabs/wiki",
+        "Bug Reports": "https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning/issues",
+        "Source": "https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning",
+        "Documentation": "https://github.com/Geoelycom/Full_stack-Machine_and_deep-Learning/wiki",
     },
 )
