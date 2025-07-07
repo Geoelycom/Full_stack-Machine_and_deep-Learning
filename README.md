@@ -1,6 +1,6 @@
 # DLABS - Deep Learning Laboratory
 
-A comprehensive, beginner-friendly deep learning codebase supporting Computer Vision, Natural Language Processing, Handwritten Text Recognition, and Production-Ready ML Systems.
+This repository is a comprehensive, beginner-friendly deep learning codebase supporting Computer Vision, Natural Language Processing, Handwritten Text Recognition, and Production-Ready ML Systems.
 
 ## 🚀 Quick Start
 
