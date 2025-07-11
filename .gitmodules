@@ -1,3 +1,6 @@
 [submodule "fsd_labs"]
 	path = fsd_labs
 	url = https://github.com/full-stack-deep-learning/fsdl-text-recognizer-2021-labs.git
+[submodule "torch-profiler-tutorial"]
+	path = torch-profiler-tutorial
+	url = https://github.com/Quentin-Anthony/torch-profiler-tutorial.git
